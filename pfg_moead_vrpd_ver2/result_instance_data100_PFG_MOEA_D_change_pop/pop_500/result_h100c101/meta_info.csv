@@ -1,0 +1,2 @@
+algorithm,pop_size,max_time,run_time,generations,source_meta_file
+PFG_MOEA_D,500,556.1338531970978,556.1402983665466,40,result_instance_5algo_with_stop_time_56\result_h100c101\meta_info.csv
